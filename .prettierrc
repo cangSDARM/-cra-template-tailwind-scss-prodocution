@@ -1,0 +1,13 @@
+{
+  "overrides": [
+    {
+      "files": ["*.js", "*.jsx", "*.ts", "*.tsx"],
+      "options": {
+        "singleQuote": true,
+        "endOfLine": "lf"
+      }
+    }
+  ],
+  "endOfLine": "lf",
+  "printWidth": 100
+}

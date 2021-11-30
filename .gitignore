@@ -1,0 +1,13 @@
+*.log*
+.DS_Store
+.env
+/.idea
+/.vscode
+/build
+/coverage
+/logs
+/node_modules
+/src/config/ssl
+
+package-lock.json
+yarn.lock
